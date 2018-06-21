@@ -24,15 +24,13 @@ A list of online courses and resources for machine learning training
 18.  [Robotics Application Machine Learning](https://www.experfy.com/training/courses/robotics-application-machine-learning?code=EXPERFY011C13E9) 
 19. [Supervised Learning: Classification](https://www.experfy.com/training/courses/supervised-learning-classification)
 20. [Data Pre-Processing](https://www.experfy.com/training/courses/data-pre-processing) 
-21. [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
-22. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
-23. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
-24. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
-25. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
-26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) by Prof. Bhiksha Raj (2017)
+21. [Knowledge and Reasoning](https://www.experfy.com/training/courses/knowledge-and-reasoning)
+22. [Unsupervised Learning: Dimensionality Reduction and Representation](https://www.experfy.com/training/courses/unsupervised-learning-dimensionality-reduction-and-representation)
+23. [Hands-on Project - Data Preparation, Modeling & Visualization](https://www.experfy.com/training/courses/hands-on-project-data-preparation-modeling-visualization)
+24. [The Wumpus World Challenge](https://www.experfy.com/training/courses/the-wumpus-world-challenge)
 
 ### Videos and Lectures
 
-1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
-2.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
+1.  [The Wumpus World Challenge](https://www.youtube.com/watch?v=wBRRsDhPuhU) Introduction video
+2.  [Introduction to Knowledge and Reasoning](https://www.youtube.com/watch?v=wUF-Xsk5A0M) 
 
