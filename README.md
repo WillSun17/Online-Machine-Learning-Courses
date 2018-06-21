@@ -10,7 +10,7 @@ A list of online courses and resources for machine learning training
 4.  [IIoT Applications for Machine Learning](https://www.experfy.com/training/courses/iiot-applications-for-machine-learning) 
 5.  [Machine Learning for Predictive Analytics](https://www.experfy.com/training/courses/machine-learning-for-predictive-analytics) 
 6.  [Marketing Analytics: Text Analysis & Recommendation Systems](https://www.experfy.com/training/courses/marketing-analytics-text-analysis-recommendation-systems) 
-7.  [Machine Learning Assisted Clinical Medicine(https://www.experfy.com/training/courses/machine-learning-assisted-clinical-medicine)
+7.  [Machine Learning Assisted Clinical Medicine](https://www.experfy.com/training/courses/machine-learning-assisted-clinical-medicine)
 8.  [Object Oriented Python/Performance Optimization](https://www.experfy.com/training/courses/object-oriented-python-performance-optimization) 
 9.  [Data Wrangling in R](https://www.experfy.com/training/courses/data-wrangling-in-r)
 10. [Why Big Data is so important today?](https://www.experfy.com/training/courses/why-big-data-is-so-important-today)
