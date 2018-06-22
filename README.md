@@ -31,6 +31,27 @@ A list of online courses and resources for machine learning training
 
 ### Videos and Lectures
 
-1.  [The Wumpus World Challenge](https://www.youtube.com/watch?v=wBRRsDhPuhU) Introduction video
+1.  [The Wumpus World Challenge](https://www.youtube.com/watch?v=wBRRsDhPuhU)   Introduction video
 2.  [Introduction to Knowledge and Reasoning](https://www.youtube.com/watch?v=wUF-Xsk5A0M) 
+3.  [Introduction to Neo4j](https://www.youtube.com/watch?v=VxlSof0TPgM) 
+4.  [Neo4j- The Movie Dataset Example](https://www.youtube.com/watch?v=wRv_79JoEVk) 
+5.  [Cypher Syntax for Neo4j](https://www.youtube.com/watch?v=lUIhPNuMG9I)
+6.  [Machine Learning - Data Preprocessing Course](https://www.youtube.com/watch?v=9paUk_Lmsu4)
+7.  [How machine learning fuels driverless cars](https://www.youtube.com/watch?v=rgDczXwU6Fc)
+8.  [Machine Learning Classification](https://www.youtube.com/watch?v=GleaDYHeE84)
+9.  [Introduction to Python Programming](https://www.youtube.com/watch?v=4iyicF0DSnA)
+10.  [Math For Machine Learning](https://www.youtube.com/watch?v=lFBIhkTipjc)
+11.  [Sports Injury Analytics Course](https://www.youtube.com/watch?v=k61HnSd3KIc)
+12.  [Predictive Analytics Course](https://www.youtube.com/watch?v=VkHhgEcHP3E)
+13.  [Algorithmic Trading Course](https://www.youtube.com/watch?v=eOBu0KlqnLA)
+14.  [Machine Learning Course](https://www.youtube.com/watch?v=tOnCvEbK1ms)
+14.  [Learn R for Data Science](https://www.youtube.com/watch?v=CVXswSqQDi0)
+14.  [Classification Models Course](https://www.youtube.com/watch?v=ybrl73NOk5Q)
+
+
+
+
+
+
+  
 
